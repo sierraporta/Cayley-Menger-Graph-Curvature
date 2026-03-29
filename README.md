@@ -1,5 +1,4 @@
-[![License: MIT](https://shields.io)](https://opensource.org)
-
+![license](https://img.shields.io/badge/license-MIT-green?style=flat)
 # Cayley-Menger Graph Curvature (κ_CM)
 
 A novel discrete curvature metric for graphs based on the Cayley-Menger determinant and effective resistance distances.
