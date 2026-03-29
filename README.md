@@ -2,6 +2,9 @@
 ![coverage](https://img.shields.io/badge/coverage-95%25-blue?style=flat&logo=GitHub)
 ![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=GitHub)
 ![](https://img.shields.io/badge/-Python-gray?style=flat&logo=Python)
+![Library](https://img.shields.io/badge/Library-Networkx-blue?style=flat&logo=Python)
+![Library](https://img.shields.io/badge/Library-Scipy-blue?style=flat&logo=Python)
+![Library](https://img.shields.io/badge/Library-scikit-learn-blue?style=flat&logo=Python)
 
 # Cayley-Menger Graph Curvature (κ_CM)
 
