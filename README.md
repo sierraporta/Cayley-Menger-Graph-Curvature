@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/-Python-gray?style=flat&logo=Python)
 ![Library](https://img.shields.io/badge/Library-Networkx-blue?style=flat&logo=Python)
 ![Library](https://img.shields.io/badge/Library-Scipy-blue?style=flat&logo=Python)
-![Library](https://img.shields.io/badge/Library-scikit-learn-blue?style=flat&logo=Python)
+![Library](https://img.shields.io/badge/Library-ScikitLearn-blue?style=flat&logo=Python)
 
 # Cayley-Menger Graph Curvature (κ_CM)
 
